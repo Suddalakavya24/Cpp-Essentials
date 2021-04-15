@@ -7,6 +7,7 @@ int main()
       cout << a[5] << endl;
 
       int *p; //pointerss
+      
       p = new int[5];
       cout << p << endl;
       for (int i = 0; i < 5; i++)
